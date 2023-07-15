@@ -1,5 +1,5 @@
 # Face-Dataset
-UCEC-Dataset
+UCEC-Face 
 
 The facial dataset consists of 130 subjects with a total of 7395 images, 44 males and 86 females. To use the dataset, please follow the following usage protocols:
 First, citations to this article are required in articles that use this dataset.
